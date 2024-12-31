@@ -1,5 +1,21 @@
 # SimpleNotesApp
 
+## Purpose
+
+To learn more about Vue3
+
+## Built With
+
+- Vue
+- Typescript
+- Local Storage
+
+## Contribution
+
+Made by Blossom
+
+### ©️2024 SimpleNotesApp
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
