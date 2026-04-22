@@ -10,6 +10,9 @@ To learn more about Vue3
 - Typescript
 - Local Storage
 
+## Site
+https://blossomou.github.io/SimpleNotesApp/
+
 ## Contribution
 
 Made by Blossom
